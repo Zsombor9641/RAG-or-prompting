@@ -175,8 +175,6 @@ safety_settings = [
 
 - All results (CSV + PNG) in **docs/** folder
 
-## 🔍 Previous Results
-
 ### 🏆 OpenAI dominance:
 
 - **Quality:** OpenAI consistently better
